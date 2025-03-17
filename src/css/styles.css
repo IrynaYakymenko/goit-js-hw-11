@@ -66,8 +66,12 @@ img {
 
   .hidden {
     display: none;
-    text-align: center;
-}
+} 
+.hid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
 form {
     text-align: center;
