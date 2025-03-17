@@ -66,6 +66,7 @@ img {
 
   .hidden {
     display: none;
+    text-align: center;
 }
 
 form {
